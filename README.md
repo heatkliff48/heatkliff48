@@ -4,7 +4,7 @@ I'm a beginner front-end developer. I don't have much experience, but I have a l
 So there will be many projects here soon.
 ______________________________________________________________________________________________________
 
-#My skills:
+# My skills:
 - JavsScript
 - React
 - WebSocket
@@ -15,6 +15,6 @@ ________________________________________________________________________________
 
 ________________________________________________________
 
-#Where can you find me?
+# Where can you find me?
 - [telegram](https://t.me/pavlishD)
 - [instagram](https://www.instagram.com/karasik_49/)
